@@ -7,7 +7,7 @@ import Row from '../common/layout/row'
 
 
 import axios from 'axios'
-const BASE_URL = 'http://localhost:3005/api'
+const BASE_URL = 'http://localhost:3006/api'
 
 
 export default class Dashboard2 extends Component {
